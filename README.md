@@ -1,2 +1,2 @@
 # Labs
-In this repository, i will upload my lab work, which i do in university.
+In this repository, i will upload my labs work, which i do in university.
